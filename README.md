@@ -1,4 +1,4 @@
-# Food-AI
+# Recipee-Advisor
 Food AI is designed to solve the problem of people, which did not know much about Pakistani dishes they in a hurry and they try to make local food by
 themselves in a few minutes and if they know about the dish, but forget their names so they easily find the name by using our application we build this
 application by keep in mind that particular audience.
